@@ -10,12 +10,21 @@ function handleSubmit(evt) {
 
 
 
-let form = document.querySelector('form#contact');
+//I DID MOUSEOVER EVENT IN MY HTML
+
+function setNewImage() {
+	alert('You have great taste in webpages')
+}
 
 let test = document.getElementById("test");
 
-Image.addEventListener('mouseover', () => {
-	alert("You Are Awesome");
-})
+
+  
+
+let form = document.querySelector('form#contact');
+
+//let test = document.getElementById("test");
+
 
 form.addEventListener('submit', handleSubmit);
+
