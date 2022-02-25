@@ -37,6 +37,15 @@ img {
 	max-width: 300px;
 }
 
-
+.style-button {
+	display: block;
+	width: 100%;
+	border: 5%;
+	background-color: yellow;
+	padding: 14px 28px;
+	font-size: 24px;
+	color: blue;
+	text-align: center;
+}
 
 

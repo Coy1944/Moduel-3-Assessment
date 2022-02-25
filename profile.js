@@ -18,3 +18,21 @@ FavRitual.addEventListener('click', () => {
 
 // var button = document.getElementById('ele');
 //  element.classList.add('color', 'place', 'ritual');
+
+//const profileBtns = document.querySelector('button');
+
+// profileBtns.forEach((btn) => {
+//     btn.addEventListener('click', (event) => {
+//         let favorite = ''
+//         switch (event.target.id) {
+//             case 'color':
+//                 favorite = 'blue';
+//             case 'place':
+//                 favorite = 'Italy';
+//             case 'ritual':
+//                 favorite = 'Meditation';
+
+//         }
+//         alert()
+//     })
+// })
